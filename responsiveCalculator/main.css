@@ -1,0 +1,11 @@
+input{
+    width:10vw;
+}
+label{
+    display:block;
+}
+.container{
+    position: absolute;
+    top:30%;
+    right:40%;
+}

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c71e6f1c-78a6-4130-951d-5eedc0e03b30" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZNAaroWefufVAaLKUc8RAhGXyn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c71e6f1c-78a6-4130-951d-5eedc0e03b30" name="Default Changelist" comment="" />
+      <created>1584669244560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584669244560</updated>
+      <workItem from="1584669245931" duration="14392000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="687" y="77" key="SettingsEditor" timestamp="1584670212101">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="687" y="77" key="SettingsEditor/0.0.2560.1040/1192.-768.1366.728/2560.-353.1600.860@0.0.2560.1040" timestamp="1584670212101" />
+    <state x="960" y="41" key="com.intellij.javaee.MapExternalResourceDialog" timestamp="1584670207274">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="960" y="41" key="com.intellij.javaee.MapExternalResourceDialog/0.0.2560.1040/1192.-768.1366.728/2560.-353.1600.860@0.0.2560.1040" timestamp="1584670207274" />
+    <state x="768" y="-785" width="1616" height="974" maximized="true" key="dock-window-1" timestamp="1584683022914">
+      <screen x="1192" y="-768" width="1366" height="728" />
+    </state>
+    <state x="768" y="-785" width="1616" height="974" maximized="true" key="dock-window-1/0.0.2560.1040/1192.-768.1366.728/2560.-353.1600.860@0.0.2560.1040" timestamp="1584683022914" />
+    <state x="1291" y="-768" width="1107" height="842" maximized="true" key="dock-window-2" timestamp="1584687942610">
+      <screen x="1192" y="-768" width="1366" height="728" />
+    </state>
+    <state x="1291" y="-768" width="1107" height="842" maximized="true" key="dock-window-2/0.0.2560.1040/1192.-768.1366.728/2560.-353.1600.860@0.0.2560.1040" timestamp="1584687942610" />
+  </component>
+</project>

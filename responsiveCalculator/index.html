@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="main.css">
+    <title>Michael Walker Responsive design calculator</title>
+</head>
+<body>
+    <div class="container">
+    <form>
+        <label for="">Screen Height</label>
+        <input type="text" placeholder="720"  id="screenHeight">
+        <br>
+        <label for="">Screen Width </label>
+        <input type="text" placeholder="1440" id="screenWidth">
+        <br>
+        <label for="">Value</label>
+        <input type="text" placeholder="144" id="value">
+        <br>
+        <label for="">Output</label>
+        <input type="text" id="output" placeholder="10" disabled readonly>
+        <select name="" id="unit">
+            <option value="vw">VW</option>
+            <option value="vh">VH</option>
+            <option value="vmin">VMIN</option>
+            <option value="vmax">VMAX</option>
+            <option value="%">%</option>
+        </select>
+        <br>
+        <br>
+        <button id='button'>Calculate</button>
+        <button id='save'>Save As Preset</button>
+    </form>
+    </div>
+    <script src="main.js"></script>
+</body>
+</html>
